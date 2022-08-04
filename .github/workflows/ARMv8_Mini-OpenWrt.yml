@@ -23,6 +23,7 @@ env:
   DIY_P2_SH: armv8/mini/diy-part2.sh
   UPLOAD_BIN_DIR: true
   UPLOAD_FIRMWARE: false
+  UPLOAD_WETRANSFER: true
   UPLOAD_RELEASE: true
   TZ: Asia/Shanghai
   FILE_NAME: ROOTFS_MINI
